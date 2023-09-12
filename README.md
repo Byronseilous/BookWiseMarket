@@ -2,13 +2,14 @@
 
 ![Landing Page](src/assets/images/screenshots/landing-header.png)
 
-# Book with me Application
+# BookWiseMarket Application
+BookWiseMarket: A digital marketplace that empowers users to lease their properties or spare rooms to guests. Our platform is built using Angular and Node, offering a seamless experience for both hosts and guests.
 
-BookWithMe is an online marketplace that lets people rent out their properties or spare rooms to guests built on Angular and Node.
+Users can effortlessly browse and explore available properties, and when they find the perfect match, they can request a booking.
 
-Users can view listed properties and make requests to Book. 
+For property owners, managing their listings and bookings is a breeze. They have full control over their listings, allowing them to add, edit, and manage their properties, as well as handle booking requests with ease.
 
-Users with listed properties have the ability to add and manage their listing(s) and manage booking(s)
+Join BookWiseMarket today to unlock the potential of your property and find the ideal space for your next adventure.
 
 
 ## Usage
@@ -132,9 +133,6 @@ Run npm install
    - This will start the server 
 ```
 
-## Authors
-
-Joel Machango
 
 ## License
 
