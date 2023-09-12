@@ -47,24 +47,7 @@ Run npm install
    - This will start the server 
 ```
 
-### Alternatively
 
-_Run the following command_
-
-```
-$ git clone git@github.com:joelmachango/bookwithme.git
-```
-- To Install all required dependancies
-```
-Run npm install
-```
-- To start the server:
-```
-1. Run cd server.
-   - This will navigate you to the server folder(cd/server)
-2. Run nodemon index.js
-   - This will start the server 
-```
 
 ## Starting the Angular App
 - To start the anglar app you need to be in the root directory 
